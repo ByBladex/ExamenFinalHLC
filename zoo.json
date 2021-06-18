@@ -1,0 +1,36 @@
+[{
+        "nombre": "Elefante",
+        "edad": 15,
+        "reino_animal": "Mamifero"
+    },
+    {
+        "nombre": "Leon",
+        "edad": 6,
+        "reino_animal": "Mamifero"
+    },
+    {
+        "nombre": "Cebra",
+        "edad": 19,
+        "reino_animal": "Mamifero"
+    },
+    {
+        "nombre": "Serpiente",
+        "edad": 3,
+        "reino_animal": "Reptil"
+    },
+    {
+        "nombre": "Rana",
+        "edad": 1,
+        "reino_animal": "Anfibio"
+    },
+    {
+        "nombre": "Sapo",
+        "edad": 19,
+        "reino_animal": "Anfibio"
+    },
+    {
+        "nombre": "Lubina",
+        "edad": 1,
+        "reino_animal": "Pez"
+    }
+]
